@@ -1,2 +1,2 @@
 # ip_notes
-nothing just dumped my notes of ip mainly coding 
+it is from ncert so no need of reading ncert again and again bye.
